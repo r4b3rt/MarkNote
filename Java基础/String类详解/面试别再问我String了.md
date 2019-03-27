@@ -175,6 +175,11 @@ String|	不可变|	安全
 StringBuffer|	可变|	安全
 StringBuilder|	可变|	非安全
 
+- 使用选择
+1. 当有少量连接操作时，使用String
+2. 当单线程下有大量连接操作时，使用StringBuilder
+3. 当多线程下有大量连接操作时，使用StringBuffer
+
 ##  常见String面试题
 
 - String str = new String("abc")创建了多少个实例？
