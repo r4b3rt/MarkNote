@@ -1,7 +1,7 @@
 ---
 title: Git合并分支使用Mgerge还是Rebase？
 categories: Git
-date: 2018-05-16 19:51:15
+date: 2019-05-16 19:51:15
 ---
 
 作为一个有追求的开发者，我一定会选择更好的版本管理工具（Git）, 使用中我们难免会在 Merge 和 Rebase 中选择其一用于合并分支。
