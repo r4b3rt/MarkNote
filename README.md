@@ -47,7 +47,7 @@ GitHub ： https://github.com/flyhero/MarkNote
 
 - [CPU使用率过高怎么办](实用技巧/CPU使用率过高/CPU使用率过高怎么办.md)
 
-- [如何选择rebase和merge](实用技巧/git/rebase vs merge.md)
+- [如何选择rebase和merge](实用技巧/git/rebase和merge.md)
 
 - [数据库死锁](实用技巧/数据库死锁/数据库死锁.md)
 
@@ -55,7 +55,7 @@ GitHub ： https://github.com/flyhero/MarkNote
 
 ## 数据库
 
-- [HTTP协议](数据库/数据类型选择/如何选择合适的数据类型.md)
+- [如何选择合适的数据类型](数据库/数据类型选择/如何选择合适的数据类型.md)
 
 ## 网络协议
 
